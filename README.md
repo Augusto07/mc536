@@ -1,2 +1,2 @@
 # Aluno
-  *José Augusto Nascimento Afonso Marcos
+  * José Augusto Nascimento Afonso Marcos
