@@ -3,4 +3,4 @@
 
 ## Tarefa sobre Consultas SQL no NHANES
 
-> [link]() para o lab03.
+> [link](https://github.com/Augusto07/mc536/blob/main/lab03/notebook/lab03-nhanes.ipynb) para o lab03.
