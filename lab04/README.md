@@ -3,4 +3,4 @@
 
 ## Tarefa sobre Consultas SQL no NHANES
 
-> Link para notebook.
+> [Link](https://github.com/Augusto07/mc536/blob/main/lab04/notebook/lab04-sql-advanced.ipynb) para notebook.
