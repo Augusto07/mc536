@@ -12,7 +12,7 @@
 
 ## Resumo
 
-> O Artigo apresenta a proposta de, diferentemente de outros sites de estatísticas de futebol, conseguir conciliar os jogos (e consequentemente as estatísticas) com as notícias veículadas sobre cada jogo. O dataset criado abrange todos os 20 times do Campeonato Brasileiro - Série A de 2018 e todos as partidas jogadas pelos times durante o campeonato. Além disso, o dataset (a partir do portal Veja) contabilizou as noticias veículadas de cada time a partir da data de cada partida realizada pelos mesmos.
+> O Artigo apresenta a proposta de, diferentemente de outros sites de estatísticas de futebol, conseguir conciliar os jogos (e consequentemente as estatísticas) com as notícias veículadas sobre cada jogo. O dataset criado abrange todos os 20 times do Campeonato Brasileiro - Série A de 2018 e todas as partidas jogadas pelos times durante o campeonato, assim como suas estatísticas individuais. Além disso, o dataset (a partir do portal Veja) contabilizou as noticias veículadas de cada time a partir da data de cada partida realizada pelos mesmos.
 
 ## Perguntas de pesquisa/análises
 
