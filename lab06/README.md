@@ -21,6 +21,6 @@
 ## Trabalhos relacionados
 
 > Dentre as iniciativas, o autor menciona os sites de onde retirou diversos dados (https://globoesporte.globo.com, https://pt.wikipedia.org/wiki/Campeonato_Brasileiro_de_Futebol_de_2018 e https://veja.abril.com.br). Além disso, ele cita diversos artigos que possuem semelhanças com o tema, como:
-> Araújo, C., Tavares, L., Alvares, L., Neto, F., and Suzuki, A. (2015). Modelagem estatística para previsão de jogos de futebol: Uma aplicação no campeonato brasileiro de 2014. Revista de Estatística da Universidade de Ouro Preto.
-> Carpita, M., Ciavolino, E., and Pasca, P. (2019). Exploring and modelling team performances of the kaggle european soccer database. Statistical Modelling, pages 74 – 101.
-> Outros artigos citados também possuem relação com o tema, abrangindo principalmente a linha de predição de jogos e análise de dados.
+> * Araújo, C., Tavares, L., Alvares, L., Neto, F., and Suzuki, A. (2015). Modelagem estatística para previsão de jogos de futebol: Uma aplicação no campeonato brasileiro de 2014. Revista de Estatística da Universidade de Ouro Preto.
+> * Carpita, M., Ciavolino, E., and Pasca, P. (2019). Exploring and modelling team performances of the kaggle european soccer database. Statistical Modelling, pages 74 – 101.
+> * Outros artigos citados também possuem relação com o tema, abrangindo principalmente a linha de predição de jogos e análise de dados.
