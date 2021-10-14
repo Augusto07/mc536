@@ -8,6 +8,6 @@
 ## Perguntas de Pesquisa/análise
 
 > Liste aqui as três perguntas de pesquisa/análise
-> * Pergunta 1
-> * Pergunta 2
-> * Pergunta 3
+> * Ao longo dos anos, quais formações obtiveram as melhores taxas de vitórias?
+> * Times tendem a fazer mais gols depois de substituições?
+> * Qual a probabilidade de um time vencer após sofrer um gol primeiro?
